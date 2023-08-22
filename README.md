@@ -25,8 +25,7 @@ https://647cc4c365687c4e3c6b2b20--chimerical-madeleine-52c26c.netlify.app/
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/bluefly-clone.git`
-2. Navigate to the project directory: `cd bluefly-clone`
+1. Clone the repository: `git clone https://github.com/DevWebAbhi/Blufly_Clone.git`
 
 ## Usage
 
